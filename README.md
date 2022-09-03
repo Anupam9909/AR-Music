@@ -7,7 +7,6 @@ Markers:
 ![Screenshot (230)](https://user-images.githubusercontent.com/71843674/125350331-3f287d00-e37c-11eb-8714-429f99f3a3b8.png)
 Detection of markers: 
 ![Screenshot (229)](https://user-images.githubusercontent.com/71843674/125351065-3dab8480-e37d-11eb-8c85-1a8c9b9c6569.png)
-![Screenshot 999](https://user-images.githubusercontent.com/71843674/125351106-4c923700-e37d-11eb-9e08-a246ea94f05e.png)
 
 
 
@@ -17,5 +16,5 @@ Detection of markers:
 * Only the instruments(markers) detected by the camera will be played, and rest will be muted. 
 * All four markers combined makes up the whole song.
 
-#### [_Play here >>_](https://anuragreacts.github.io/AR-Music-App/) 
+
 
